@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ICE Task 1 - IMAD</string>
+    <string name="hiddenText">Enter the number</string>
+    <string name="TextView">Get to know your multiplication tables!</string>
+    <string name="heading2">ANSWER:</string>
+    <string name="button1">Multiply!</string>
+
+
+</resources>
